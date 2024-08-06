@@ -1,4 +1,4 @@
-import '../styles/style.css'
+import 'style.css'
 
 const display = document.querySelector("#display");
 const buttons = document.querySelectorAll("button");
