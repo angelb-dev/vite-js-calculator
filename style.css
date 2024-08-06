@@ -78,5 +78,6 @@ button:hover {
 }
 
 h1 {
-  align-self: top;
+  position: absolute;
+  bottom: 690px;
 }
