@@ -76,3 +76,7 @@ button:hover {
   0 1.5px 1.5px rgba(0, 0, 0, 0.23);
   cursor: pointer;
 }
+
+h1 {
+  align-self: top;
+}
